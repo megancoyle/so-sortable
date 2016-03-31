@@ -10,4 +10,4 @@ JavaScript for creating sortable grids that can be used for photo galleries
 	<li>Images are from pexels.com</li>
 </ul>
 
-<p><a href="http://megcoyle.github.io/so-sortable/">Check out a working example of so-sortable</a></p>
+<p><a href="http://megancoyle.github.io/so-sortable/">Check out a working example of so-sortable</a></p>
